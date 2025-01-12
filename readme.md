@@ -40,9 +40,9 @@ hospital-management-system/
 ## Create database 
 2. create this database into your mysql before run any thing.
 ```
-CREATE DATABASE hospital_db;
+CREATE DATABASE hospital_management;
 
-USE hospital_db;
+USE hospital_management;
 
 CREATE TABLE patients (
     id INT AUTO_INCREMENT PRIMARY KEY,
